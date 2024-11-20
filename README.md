@@ -3,7 +3,7 @@
 Text summarizer using `facebook/bart-large-cnn` BART Model, UI made with Streamlit.
 
 ## How to run
-1. **Clone the repo**:
+1. **Clone the repo**
 2. **Create virtual environment (using venv for example)**:
    ```bash
    python -m venv venv
