@@ -1,6 +1,6 @@
 # Text Summarizer
 
-Text summarizer using `facebook/bart-large-cnn` BART Model, UI made with Streamlit
+Text summarizer using `facebook/bart-large-cnn` BART Model, UI made with Streamlit.
 
 ## How to run
 1. **Clone the repo**:
@@ -18,7 +18,7 @@ Text summarizer using `facebook/bart-large-cnn` BART Model, UI made with Streaml
    streamlit run app.py
    ```
 
-Note that this will download the BART model
+Note that this will download the BART model.
 
 ## License
 This project is licensed under the MIT License.
